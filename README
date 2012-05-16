@@ -1,0 +1,9 @@
+# Narrative IPython documentation
+
+An attempt to rewrite the IPython docs in a friendlier tutorial style, so that 
+sphinx docs can be dedicated to reference, rather than trying to do both, to 
+the detriment of both.
+
+
+
+
